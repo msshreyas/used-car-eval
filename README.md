@@ -54,3 +54,15 @@ The data exploration process included:
 ## License
 
 This project is licensed under the MIT License.
+
+## Summary of Findings
+
+The analysis of the used car dataset revealed several key factors that influence the price of a used car:
+
+*   **Year:** Newer cars generally have higher prices.
+*   **Odometer:** Cars with lower odometer readings tend to be more expensive.
+*   **Condition:** Cars in excellent condition command higher prices.
+*   **Transmission:** Automatic transmissions are generally more valued.
+
+For a detailed exploration of the analysis, please refer to the [Used Car Evaluation Notebook](prompt_II.ipynb).
+
